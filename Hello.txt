@@ -1,1 +1,2 @@
-print("Merhaba Dünya");
+print("Hello, World!");
+print("How R' You");
